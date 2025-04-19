@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:13
+#EXT-X-MEDIA-SEQUENCE:684509
+#EXT-X-DISCONTINUITY-SEQUENCE:347
+#EXT-X-PROGRAM-DATE-TIME:2025-04-19T19:57:03.612Z
+#EXTINF:10.0
+https://tv-trtspor-esdai.medya.trt.com.tr/master_1080p_primary_20250419T195954_684509.ts?platform=trtspor
+#EXTINF:10.0
+https://tv-trtspor-esdai.medya.trt.com.tr/master_1080p_primary_20250419T200004_684510.ts?platform=trtspor
+#EXTINF:10.0
+https://tv-trtspor-esdai.medya.trt.com.tr/master_1080p_primary_20250419T200014_684511.ts?platform=trtspor
+#EXTINF:10.0
+https://tv-trtspor-esdai.medya.trt.com.tr/master_1080p_primary_20250419T200024_684512.ts?platform=trtspor
+#EXTINF:10.0
+https://tv-trtspor-esdai.medya.trt.com.tr/master_1080p_primary_20250419T200034_684513.ts?platform=trtspor
