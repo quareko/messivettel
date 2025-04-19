@@ -138,6 +138,9 @@ https://tvcdn.4t40.workers.dev/https://due.b7d6fbb7f7093400.click/itis/8c1437d28
 #EXTINF:-1 tvg-name="beIN SPORTS 1 [B]" tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS 1 [B]
 https://r14.cf1-b17.workers.dev/static/bs1.m3u8
 
+#EXTINF:-1 tvg-name="Tabii Spor" tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷TR] BEIN SPORTS",Tabii Spor
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
+
 #EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS HABER
 https://ppp.mevzuhls32.cfd/yayinzirve.m3u8
 
