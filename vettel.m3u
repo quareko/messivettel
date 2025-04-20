@@ -130,13 +130,16 @@ https://tv.arectv29.sbs/live/viasathistory.m3u8
 #EXTINF:-2🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣BEIN SPORTS KANALLARI🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
 
 #EXTINF:-1 tvg-name="beIN SPORTS 1 [A]" tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS 1 [A]
-https://zekonew.newkso.ru/zeko/premium62/mono.m3u8
+https://ppp.mevzuhls32.cfd/yayinzirve.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 1 [SELCUKSPORTS HD]" tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS 1 [SELCUKSPORTS HD]
 https://tvcdn.4t40.workers.dev/https://due.b7d6fbb7f7093400.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 1 [B]" tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS 1 [B]
-https://r14.cf1-b17.workers.dev/static/bs1.m3u8
+https://ppp.mevzuhls32.cfd/yayininat.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1 [C]" tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS 1 [C]
+https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-id="Beinsports.tr" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS",Tabii Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
