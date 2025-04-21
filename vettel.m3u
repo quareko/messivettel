@@ -141,8 +141,6 @@ https://ppp.mevzuhls32.cfd/yayininat.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 1 [C]" tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS 1 [C]
 https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
 
-#EXTINF:-1 tvg-name="Tabii Spor" tvg-id="Beinsports.tr" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS",Tabii Spor
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS HABER
 https://ppp.mevzuhls32.cfd/yayinzirve.m3u8
@@ -192,6 +190,25 @@ https://v.arectv29.sbs/static/bm1.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS MAX 2 [HD]" tvg-id="BeinsportsMax2.tr" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS MAX 2 [HD]
 https://v.arectv29.sbs/static/bm2.m3u8
 
+#🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢SPOR KANALLARI🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
+
+#EXTINF:-1 tvg-name="A SPOR" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="" tvg-logo="http://epg.one/img/6525.png" group-title="[🇹🇷]Spor",TRT SPOR
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web
+
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor" tvg-id="Beinsports.tr" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS",Tabii Spor
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-name="S SPORT" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",S SPORT
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="S SPORT-2" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",S SPORT 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
 #EXTINF:-2⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️SİNEMA KANALLARI⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
 
@@ -199,39 +216,30 @@ https://v.arectv29.sbs/static/bm2.m3u8
 https://saran-live.ercdn.net/fx/index.m3u8
 
 #EXTINF:-1 tvg-id="67" tvg-name="MOVİESMART TÜRK" tvg-logo="" group-title="[🇹🇷TR] SİNEMA",MOVİESMART TÜRK
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.arectv29.sbs/live/mvturk.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="SİNEMA TV" tvg-logo="" group-title="[🇹🇷TR] SİNEMA",SİNEMA TV
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.arectv29.sbs/live/sinema.m3u8
 
 #EXTINF:-1 tvg-id="60" tvg-name="SİNEMA TV 2" tvg-logo="" group-title="[🇹🇷TR] SİNEMA",SİNEMA TV 2
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.arectv29.sbs/live/sinema2.m3u8
 
 #EXTINF:-1 tvg-id="59" tvg-name="SİNEMA TV AKSİYON" tvg-logo="" group-title="[🇹🇷TR] SİNEMA",SİNEMA TV AKSİYON
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.arectv29.sbs/live/sinemaaksiyon.m3u8
 
 #EXTINF:-1 tvg-id="57" tvg-name="SİNEMA TV KOMEDİ" tvg-logo="" group-title="[🇹🇷TR] SİNEMA",SİNEMA TV KOMEDİ
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.arectv29.sbs/live/sinemakomedi.m3u8
 
 #EXTINF:-1 tvg-id="56" tvg-name="SİNEMA TV YERLİ" tvg-logo="" group-title="[🇹🇷TR] SİNEMA",SİNEMA TV YERLİ
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.arectv29.sbs/live/sinemayerli.m3u8
 
 #EXTINF:-1 tvg-id="55" tvg-name="SİNEMA TV AİLE" tvg-logo="" group-title="[🇹🇷TR] SİNEMA",SİNEMA TV AİLE
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.arectv29.sbs/live/sinemaaile.m3u8
 
 #EXTINF:-1 tvg-id="53" tvg-name="SİNEMA TV 1001" tvg-logo="" group-title="[🇹🇷TR] SİNEMA",SİNEMA TV 1001
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.arectv29.sbs/live/sinema1001.m3u8
 
 #EXTINF:-1 tvg-id="52" tvg-name="SİNEMA TV 1002" tvg-logo="" group-title="[🇹🇷TR] SİNEMA",SİNEMA TV 1002
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.arectv29.sbs/live/sinema1002.m3u8
 
 #EXTINF:-2⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️MÜZİK KANALLARI⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
