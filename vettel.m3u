@@ -192,22 +192,22 @@ https://v.arectv29.sbs/static/bm2.m3u8
 
 #🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢SPOR KANALLARI🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
 
-#EXTINF:-1 tvg-name="A SPOR" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",A SPOR
+#EXTINF:-1 tvg-name="A SPOR" tvg-id="" tvg-logo="" group-title="[🇹🇷TR]Spor",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="" tvg-logo="http://epg.one/img/6525.png" group-title="[🇹🇷]Spor",TRT SPOR
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="" tvg-logo="http://epg.one/img/6525.png" group-title="[🇹🇷TR]Spor",TRT SPOR
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web
 
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",TRT SPOR YILDIZ
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="" tvg-logo="" group-title="[🇹🇷TR]Spor",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-id="Beinsports.tr" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS",Tabii Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-name="S SPORT" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",S SPORT
+#EXTINF:-1 tvg-name="S SPORT" tvg-id="" tvg-logo="" group-title="[🇹🇷TR]Spor",S SPORT
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="S SPORT-2" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",S SPORT 2
+#EXTINF:-1 tvg-name="S SPORT-2" tvg-id="" tvg-logo="" group-title="[🇹🇷TR]Spor",S SPORT 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
 #EXTINF:-2⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️SİNEMA KANALLARI⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
