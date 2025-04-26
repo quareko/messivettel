@@ -1,7 +1,8 @@
 ﻿#EXTM3U
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="poster1.jpg", Film 1
 https://server.com/film1.m3u8
+
 #EXTINF:-1 tvg-logo="poster2.jpg", Film 2
 https://server.com/film2.m3u8
 
