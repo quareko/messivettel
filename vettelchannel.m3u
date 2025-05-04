@@ -220,8 +220,11 @@ https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS 1 [D]" tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [D]
 https://gknnowtv.onrender.com/bein1.m3u8
 
-#EXTINF:-1  tvg-name="beIN SPORTS 1 [E]" tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [D]
+#EXTINF:-1  tvg-name="beIN SPORTS 1 [E]" tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [E]
 https://t6co.everyunable.workers.dev/list/yayinpeakstream.m3u8
+
+#EXTINF:-1  tvg-name="beIN SPORTS 1 [F]" tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [F]
+http://supersonictv.live:8080/771235/786060/86262
 
 #EXTINF:-1 tvg-name="BeIN SPORTS 2 [A]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 2 [A]
 https://lll.mevzuhls35.cfd/yayinb2.m3u8
